@@ -1,0 +1,14 @@
+numpy
+pandas
+Flask
+Flask-Cors
+python-decouple
+azure.cognitiveservices.speech
+azure-storage-blob
+gunicorn==20.1.0
+python-dotenv==1.0.0
+langchain==0.0.308
+langchain-experimental==0.0.28
+openai==0.28.0
+pyodbc==5.01.
+pymssql==2.2.10
